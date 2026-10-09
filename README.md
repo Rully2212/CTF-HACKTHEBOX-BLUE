@@ -1,3 +1,11 @@
+> **Write-up ini sudah dipindahkan ke repo utama.**
+>
+> Laporan lengkap dan gambar: [My-CTF-Write-ups — hackthebox/blue](https://github.com/Rully2212/My-CTF-Write-ups/tree/main/hackthebox/blue).
+>
+> Pembaruan berikutnya dilakukan di repo utama. Riwayat asli repo ini tetap tersedia sebagai arsip.
+
+---
+
 # Hack The Box — Blue CTF Write-up
 
 This report documents my assessment of the Blue machine on Hack The Box. It covers service enumeration, SMB inspection, exploitation of MS17-010 using EternalBlue, verification of SYSTEM privileges, and flag discovery.
